@@ -1,0 +1,4 @@
+.custom-img {
+   height: 200px; /* Rasm balandligi doim bir xil bo'ladi */
+   object-fit: cover; /* Rasmni to'liq va estetik ko'rsatadi */
+}
